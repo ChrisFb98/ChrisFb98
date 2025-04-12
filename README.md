@@ -1,16 +1,20 @@
-## Hi there 👋
+# Christopher Flores
 
-<!--
-**ChrisFb98/ChrisFb98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Christopher Flores, a passionate student currently training to become a **Full-stack Software Developer**.
 
-Here are some ideas to get you started:
+## 🧠 Technologies and Languages I Work With:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python  
+- HTML  
+- CSS  
+- Bootstrap  
+- SASS  
+- GIT  
+
+## 🚀 Looking for Opportunities
+
+I'm currently seeking opportunities to enter the tech industry. I'm excited about the chance to contribute to real-world projects, keep learning, and take on new challenges.  
+I'm committed to doing whatever it takes to get the job done and to continue growing as a developer.
+
+If you're working on something interesting or know of an opportunity, feel free to reach out!
+
